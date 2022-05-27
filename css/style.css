@@ -15,7 +15,6 @@ html {
 }
 
 .promo {                    /* ПЕРВАЯ СЕКЦИЯ */
-    position: absolute;
     margin: 0 auto;
     min-height: 800px;
     background: url('../img/main_bg.jpg') center center/cover no-repeat;
